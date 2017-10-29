@@ -1,4 +1,3 @@
-# 2017-San-Francisco
 # DevOps Enterprise Summit San Francisco 2017
 <p>November 13–15, 2017</p>
 <p>San Francisco Hilton Union Square</p>
